@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+.word{
+  margin: -6em 20px;
+  color: white;
+  font-size: 250%
+}
+.photo{
+
+border: 2px solid black;
+padding: 330px;
+background-image: url(https://odeon-group.ru/wp-content/uploads/zharenye-pirozhki-s-yablokami-klassicheskie-i-avtorskie-recepty-gotovka-zharenyh.jpg)
+}
+header {
+  background: #8c8c8c;
+  padding: 25px 0;
+  text-transform: uppercase;
+}
+.header_icon{
+  margin: 0 180px;
+}
+.word{
+  font-family: Bradley Hand, cursive;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Lora';
+  font-size: 30px;
+}
+
+
+.header_menu_link:hover {
+  opacity: 1;
+}
+
+.menu li{
+  display: inline-block;
+  padding: inherit;
+}
+
+.menu{
+  margin: -18px;
+  list-style: none;
+}
+.header_inside {
+  padding: 5px 0;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 248px;
+  align-items: center;
+}
+.header_menu_link{
+  vertical-align: super;
+  font-family: 'Raleway', sans-serif;
+  display: inline-block;
+  padding-left: 40px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  opacity: .75;
+  transition: opacity .1s linear;
+}
+.begin{
+  font-size: 45px;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+  font-family: Bradley Hand, cursive;
+}
+
+.step1 {
+  font-size: 30px;
+  padding-top: 18%;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+.step2 {
+  font-size: 30px;
+  padding-top: 5%;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+.step3 {
+  font-size: 30px;
+  padding-top: 5%;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+.step4 {
+  font-size: 30px;
+  padding-top: 5%;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+.step5 {
+  font-size: 30px;
+  padding-top: 5%;
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+.step6 {
+  font-size: 30px;
+
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
+
+li {
+    margin: 5 10px;
+  }
+.stext1{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Marker Felt, cursive;
+}
+
+.stext2{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Bradley Hand, cursive;
+  font-family: Marker Felt, cursive;
+}
+
+.stext3{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Marker Felt, cursive;
+}
+
+.stext4{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Marker Felt, cursive;
+}
+
+.stext5{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Marker Felt, cursive;
+}
+
+.stext6{
+  padding-top: -5%;
+  font-size: 40px;
+  font-family: Marker Felt, cursive;
+}
+
+.endl{
+  padding-top: 10%;
+  background-color: gray;
+  font-size: 30px;
+}
+
+hr{
+    clear:left;
+}
+td {
+   border: 5px solid yellow;
+   font-family: Bradley Hand, cursive;
+
+   font-size: 20px;
+}
+th{
+  border: 5px solid yellow;
+  font-family: Bradley Hand, cursive;
+  font-weight: bolder;
+  font-size: 20px;
+
+}
+table{
+  border-collapse: collapse;
+}
+body{
+  background-image: url(https://st.depositphotos.com/1016682/2450/i/600/depositphotos_24502465-stock-photo-white-brick-wall.jpg);
+}
++
